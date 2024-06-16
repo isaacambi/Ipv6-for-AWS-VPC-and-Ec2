@@ -202,3 +202,6 @@ Add Type and source
 
 
 ![image](custom.png)
+
+
+Ipv6 is added to inbound rules
