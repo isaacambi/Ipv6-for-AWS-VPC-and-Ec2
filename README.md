@@ -87,13 +87,15 @@ click add
 ![image](add.png)
 
 
-Update Subent CIDR block
+Update Subnet CIDR block
 
 
 ```it will give space for 2 numbers
 add
 01::/64
-#save```
+#save
+```
+
 
 
 ![image](range.png)
