@@ -80,3 +80,8 @@ New IPv6 CIDR is added and click on close
 Now click on Subnets > Edit ipv6 cidrs
 
 ![image](subnets.png)
+
+
+click add
+
+![image](add.png)
