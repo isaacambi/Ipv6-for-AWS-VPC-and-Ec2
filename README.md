@@ -76,3 +76,7 @@ New IPv6 CIDR is added and click on close
 
 
 ![image](ipad.png)
+
+Now click on Subnets > Edit ipv6 cidrs
+
+![image](subnets.png)
