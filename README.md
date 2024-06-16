@@ -109,3 +109,6 @@ Actions –> Edit IPv6 CIDRs
 
 
 click add
+
+
+![image](save.png)
