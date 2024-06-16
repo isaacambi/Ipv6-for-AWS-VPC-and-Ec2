@@ -99,3 +99,13 @@ add
 
 
 ![image](range.png)
+
+Select second subnet
+
+Actions –> Edit IPv6 CIDRs
+
+
+![image](second.png)
+
+
+click add
