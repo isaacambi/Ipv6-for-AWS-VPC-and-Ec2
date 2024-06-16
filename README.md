@@ -55,3 +55,8 @@ Click on Vpcs
 Click Actions –> Edit CIDRs
 
 ![image](cidrs.png)
+
+Click on Add new IPv6 CIDR
+
+
+![image](ipv6.png)
