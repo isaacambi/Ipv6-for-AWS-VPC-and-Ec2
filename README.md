@@ -128,3 +128,7 @@ Select third subnet
 Actions –> Edit IPv6 CIDRs
 
 ![image](third.png)
+
+Add IPv6 CIDR
+
+![image](renew.png)
