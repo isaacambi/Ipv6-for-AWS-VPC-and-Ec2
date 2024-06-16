@@ -45,4 +45,4 @@ cloud infrastructure begins now.
 
 Search for VPC in your AWS account & select VPC
 
-![image](vpc.png)
+![image](vpc1.png)
