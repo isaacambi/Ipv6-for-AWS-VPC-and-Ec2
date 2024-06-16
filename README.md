@@ -167,3 +167,5 @@ and select your default igw and save changes
 
 
 ![image](internet.png)
+
+Added IPv6 in routes
