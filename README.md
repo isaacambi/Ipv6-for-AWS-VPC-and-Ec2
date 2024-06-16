@@ -156,3 +156,7 @@ Click on Edit route
 Click on Add route
 
 ![image](addroute.png)
+
+Select IPv6 –> ::/0
+
+![image](choose.png)
