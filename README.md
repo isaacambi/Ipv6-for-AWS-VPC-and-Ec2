@@ -150,3 +150,9 @@ Select default route table
 click on Routes
 
 ![image](route.png)
+
+Click on Edit route
+
+Click on Add route
+
+![image](addroute.png)
