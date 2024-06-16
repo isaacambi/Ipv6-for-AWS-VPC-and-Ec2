@@ -176,3 +176,6 @@ Added IPv6 in routes
 Now comeback to EC2
 
 Click on Security groups
+
+
+![image](security.png)
