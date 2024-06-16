@@ -179,3 +179,9 @@ Click on Security groups
 
 
 ![image](security.png)
+
+
+select Default Security group and click on Outbound rules, by default its added Ipv6
+
+
+![image](default.png)
