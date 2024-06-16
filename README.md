@@ -185,3 +185,9 @@ select Default Security group and click on Outbound rules, by default its added 
 
 
 ![image](default.png)
+
+
+Now Click on Inbound rules
+
+Edit Inbound rules
+
