@@ -71,3 +71,8 @@ Click on Select CIDR
 
 
 ![image](select.png)
+
+New IPv6 CIDR is added and click on close
+
+
+![image](ipad.png)
