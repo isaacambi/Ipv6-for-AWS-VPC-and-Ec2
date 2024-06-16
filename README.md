@@ -171,3 +171,8 @@ and select your default igw and save changes
 Added IPv6 in routes
 
 ![image](routetable.png)
+
+
+Now comeback to EC2
+
+Click on Security groups
