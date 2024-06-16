@@ -132,3 +132,10 @@ Actions –> Edit IPv6 CIDRs
 Add IPv6 CIDR
 
 ![image](renew.png)
+
+Update
+
+```
+03::/64
+save
+```
