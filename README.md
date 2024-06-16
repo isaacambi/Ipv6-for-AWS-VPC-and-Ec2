@@ -121,3 +121,10 @@ save
 ```
 
 ![image](secondedit2.png)
+
+
+Select third subnet
+
+Actions –> Edit IPv6 CIDRs
+
+![image](third.png)
