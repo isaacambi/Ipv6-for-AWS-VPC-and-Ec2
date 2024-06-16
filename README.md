@@ -49,4 +49,9 @@ Search for VPC in your AWS account & select VPC
 
 Click on Vpcs
 
+
 ![image](vpcregions.png)
+
+Click Actions –> Edit CIDRs
+
+![image](cidrs.png)
