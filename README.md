@@ -197,3 +197,8 @@ Edit Inbound rules
 Add rule
 
 ![image](addrule.png)
+
+Add Type and source
+
+
+![image](custom.png)
