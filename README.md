@@ -142,3 +142,11 @@ save
 
 
 ![image](threesix.png)
+
+Click on route tables
+
+Select default route table
+
+click on Routes
+
+![image](route.png)
