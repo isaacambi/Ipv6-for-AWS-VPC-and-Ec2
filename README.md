@@ -85,3 +85,6 @@ Now click on Subnets > Edit ipv6 cidrs
 click add
 
 ![image](add.png)
+
+
+![image](range.png)
