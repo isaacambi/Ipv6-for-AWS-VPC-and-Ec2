@@ -160,3 +160,10 @@ Click on Add route
 Select IPv6 –> ::/0
 
 ![image](choose.png)
+
+Select Internet gateway
+
+and select your default igw and save changes
+
+
+![image](internet.png)
