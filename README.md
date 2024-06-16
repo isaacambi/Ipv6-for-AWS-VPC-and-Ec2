@@ -60,3 +60,14 @@ Click on Add new IPv6 CIDR
 
 
 ![image](ipv6.png)
+
+
+
+Select Amazon-provided IPv6 CIDR block
+
+Select your VPC region
+
+Click on Select CIDR
+
+
+![image](select.png)
