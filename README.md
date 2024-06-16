@@ -192,3 +192,7 @@ Now Click on Inbound rules
 Edit Inbound rules
 
 ![image](inbound.png)
+
+
+Add rule
+
