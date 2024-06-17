@@ -205,3 +205,6 @@ Add Type and source
 
 
 Ipv6 is added to inbound rules
+
+
+![image](ping.png)
