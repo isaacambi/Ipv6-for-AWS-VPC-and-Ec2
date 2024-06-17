@@ -208,3 +208,18 @@ Ipv6 is added to inbound rules
 
 
 ![image](ping.png)
+
+
+use Mobaxterm to connect with your instance
+
+update the instance. 
+
+```
+sudo apt update -y
+```
+
+![image](sudoapt.png)
+
+
+use the command "ifconfig" to find out what your ipv6 address is 
+
