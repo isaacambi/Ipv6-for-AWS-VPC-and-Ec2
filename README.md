@@ -225,3 +225,8 @@ use the command "ifconfig" to find out what your ipv6 address is
 
 
 ![image](ifconfig.png)
+
+The ping actually worked!!!
+
+
+![image](pingoutcome.png)
